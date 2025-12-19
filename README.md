@@ -7,6 +7,15 @@
 A student in Bulacan State University, Philippines specializing in Computer Science as a Mathematics major.
 
  - 🌱 I’m currently learning Python
+
+## What I Use
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<hr>
 <!--
 **micogonzales19/micogonzales19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
