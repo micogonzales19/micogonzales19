@@ -2,12 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mico+Gonzales!;" />
 </h1>
 
-### Hey! I'm Mico Gonzales
+### Yo! I'm Mico Gonzales
 
 A student in Bulacan State University, Philippines specializing in Computer Science as a Mathematics major.
-
+ - 😄 He/Him
  - 🌱 I’m currently learning Python
-
+ - 📔 First started learning C and C++
+ - 🎯 Want to improve programming skills
 ## What I Use
 <br>
 
