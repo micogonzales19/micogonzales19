@@ -2,7 +2,10 @@
 
 <!--
 **micogonzales19/micogonzales19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{micogonzales19}/count.svg" alt="Visitor's Count" />
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
