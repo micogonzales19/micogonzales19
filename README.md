@@ -12,7 +12,7 @@ A student in Bulacan State University, Philippines specializing in Computer Scie
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,vsc" />
 </p>
 
 <hr>
